@@ -16,7 +16,7 @@
 ### Total Revenue in Indian States Choropleth Map 
 <a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Visualization%20of%20Total%20revenue%20On%20India's%20Geo%20Map.html" >Total Revenue in Indian States Choropleth Map</a>
 
-<a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Visualization%20of%20Log(Total%20revenue)%20On%20India's%20Geo%20Map.html >log(Total Revenue) in Indian States Choropleth Map </a>
+<a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Visualization%20of%20Log(Total%20revenue)%20On%20India's%20Geo%20Map.html" >log(Total Revenue) in Indian States Choropleth Map </a>
 
 
 
