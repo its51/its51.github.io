@@ -22,7 +22,7 @@
 
 <a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Order%20Types%20_%20States%20--%20Total%20Revenue.html">Total Revenue - Order Types > States.html</a>
 
-<a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/State%20_%20Manufacturer%20_%20Model%20--%20Total%20revenue.html">State _ Manufacturer _ Model -- Total revenue.html</a>
+<a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/State%20_%20Manufacturer%20_%20Model%20--%20Total%20revenue.html">Total revenue - State > Manufacturer > Model.html</a>
 
 
 
