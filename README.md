@@ -1,6 +1,6 @@
 # Capstone-Project Plot.ly
 
-<a href="https://github.com/its51/its51.github.io/blob/main/_Top%2010%20Car%20brands%20in%20North_Zone.html">North_Zone</a>
+<a href="https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/_Top%2010%20Car%20brands%20in%20North_Zone.html">North_Zone</a>
 
 <a href="https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/_Top%2010%20Car%20brands%20in%20East_Zone.html">East_Zone</a>
 
