@@ -18,6 +18,12 @@
 
 <a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Visualization%20of%20Log(Total%20revenue)%20On%20India's%20Geo%20Map.html" >log(Total Revenue) in Indian States Choropleth Map </a>
 
+### SunBurst Charts
+
+<a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Total%20Revenue%20-%20Order%20Types%20_%20States.html">Total Revenue - Order Types > States.html</a>
+
+
+
 
 
 
