@@ -24,6 +24,7 @@
 
 <a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/State%20_%20Manufacturer%20_%20Model%20--%20Total%20revenue.html">Total revenue - State > Manufacturer > Model.html</a>
 
+<a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Year%20_%20State%20--%20Total%20revenue.html">Total revenue - Year > States.html</a>
 
 
 
