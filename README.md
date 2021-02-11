@@ -26,10 +26,10 @@
 
 <a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Year%20_%20State%20--%20Total%20revenue.html">Total revenue - Year > States.html</a>
 
-<a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Origin%20_%20Manufacturer%20_%20Model%20--%20Total%20revenue.html">Origin > Manufacturer > Model -- Total revenue.html</a>
+<a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Origin%20_%20Manufacturer%20_%20Model%20--%20Total%20revenue.html"> Total revenue -Origin > Manufacturer > Model.html</a>
 
 
-<a href= "https://htmlpreview.github.io/?https://drive.google.com/file/d/1nnAcGHrqkk2NewLffI_tq0ephJ14FcE6/view?usp=sharing">animation.html</a>
+<a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Total%20Revenue%20-%20Order%20Types%20_%20State%20_%20Workshop.html">Total Revenue - Order Types _ State _ Workshop.html</a>
 
 
 
