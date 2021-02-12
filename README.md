@@ -18,7 +18,7 @@
 
 <a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Visualization%20of%20Log(Total%20revenue)%20On%20India's%20Geo%20Map.html" >log(Total Revenue) in Indian States Choropleth Map </a>
 
-### SunBurst Charts
+### Total revenue SunBurst Charts 
 
 <a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Order%20Types%20_%20States%20--%20Total%20Revenue.html">Total Revenue - Order Types > States.html</a>
 
@@ -31,8 +31,12 @@
 
 <a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Total%20Revenue%20-%20Order%20Types%20_%20State%20_%20Workshop.html">Total Revenue - Order Types _ State _ Workshop.html</a>
 
+### Labour revenue SunBurst Charts 
+<a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Labour%20Revenue%20-%20Order%20Types%20_%20State%20_%20Workshop.html">Labour Revenue - Order Types _ State _ Workshop.html</a>
 
+<a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Labour%20revenue%20-%20State%20_%20Manufacturer%20_%20Model.html">Labour revenue - State _ Manufacturer _ Model.html</a>
 
+<a href= "https://htmlpreview.github.io/?">filename.html</a>
 
 
 
