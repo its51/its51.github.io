@@ -36,11 +36,16 @@
 
 <a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Labour%20revenue%20-%20State%20_%20Manufacturer%20_%20Model.html">Labour revenue - State _ Manufacturer _ Model.html</a>
 
+
+
+### Pie Charts Order Type Distribution count wise and earning wise 
+a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Count-wise%20Order%20Type%20Distribution.html">Count-wise Order Type Distribution.html</a>
+
+
+<a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Earning-wise%20Order%20Type%20Distribution.html">Earning-wise Order Type Distribution.html</a>
+
+
 <a href= "https://htmlpreview.github.io/?">filename.html</a>
-
-
-
-
 
 
 
